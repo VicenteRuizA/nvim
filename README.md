@@ -1,2 +1,2 @@
 # nvim
-Adapted from ThePrimeagen Setup
+Adapted from ThePrimeagen setup: https://github.com/ThePrimeagen/init.lua
